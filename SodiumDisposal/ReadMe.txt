@@ -11,3 +11,10 @@
 Size: 640 X 640
 Layout: Created in same directory
 
+
+/********** Steps *****************/
+- Annotate images in Roboflow
+- Train the Yolo model in Google Colab
+- Download the model and Apply Inferencing
+- Build video with set of input and segmented images
+
