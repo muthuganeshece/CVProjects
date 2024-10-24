@@ -13,10 +13,12 @@ All my computer vision projects
   - Efficient disposal of sodium
 ## Sodium Fire Segmentation
 - Semantic Segmentation of fire from the raw image
-- Label dataset using Roboflow
-- Yolo v8 pretrained segmentation model is trained in google colab
-- 
+- Annotate dataset using Roboflow
+- Yolo v8 pretrained segmentation model is used to train custom dataset
+
 ## Detection of Hydrogen Buildup
+- Characterization study on sequence of images to detect hydrogen combustion
+
 
 # Motion Debluring of Scintillator based Optical images from an X-ray source
 - **Tools and Libraries:**
