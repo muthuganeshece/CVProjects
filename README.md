@@ -26,5 +26,12 @@ All my computer vision projects
 - **Architectures:**
   - 
 - **Project Description:**
-  - Efficient disposal of sodium
+  - 
+
+## Image Preprocessing
+- Adjusted the brightness of 16-bit images for better visibility of the object
+- Applied flat field correction to separate the foreground from the background
+- Used a Gaussian filter for smoothing
+- Binarized the image by applying thresholding techniques
+  
 ## Estimation of Point Spread Function
