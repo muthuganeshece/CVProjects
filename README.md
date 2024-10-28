@@ -26,5 +26,17 @@ All my computer vision projects
 - **Architectures:**
   - 
 - **Project Description:**
-  - Efficient disposal of sodium
+  - Optical images captured from the scintillator which emit photons when exposed to X-rays
+  - Rapid motion of the object being imaged causes the captured images to suffer from blur
+  - The blur effect reduces the clarity and accuracy of the images
+  - This makes it difficult to extract precise information about the object's location and features
+  - Advanced image deblurring techniques are needed to restore image sharpness and accurate localization of the object
+  - The object of interest is spherical in nature with the diameter of 10mm
+
+## Image Preprocessing
+- Adjusted the brightness of 16-bit images for better visibility of the object
+- Applied flat field correction to separate the foreground from the background
+- Used a Gaussian filter for smoothing
+- Binarized the image by applying thresholding techniques
+  
 ## Estimation of Point Spread Function
