@@ -1,3 +1,21 @@
-/*********** Deblur the optical image capture in scintillator *********/
+/*********** Deblur the optical image captured from scintillator *********/
 Point Spread Function:
+- Spread of point object in the optical image captured
+- Represented as PSF
 
+Motion Blur:
+- Blurred Image = Correct Image * PSF
+
+Image Deblur Techniques:
+- Extracting the correct image from the blurred image
+- Non Blind Deblur:
+	- If PSF is known, simply applying a deconvolution returns the result
+- Blind Deblur:
+	- If PSF is unknown, first it needs to be estimated 
+
+Work:
+- Analyse images in ImageJ
+- Adjust brightness to view the object in the image
+- Apply flat field correction to extract the foreground image (Current image/Background image)
+- Apply Gaussian filter
+- Crop the region of interest
