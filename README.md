@@ -3,7 +3,7 @@ All my computer vision projects
 # Contents
 - **Computer Vision based Automation System for Sodium Disposal Plant**
 - **Motion Debluring of Scintillator based Optical images from an X-ray source**
-- **Denoising of X-ray images**
+- **Neural network based Blind Denoising of X-ray images**
 
 # Computer Vision based Automation System for Sodium Disposal Plant
 - **Tools and Libraries:**
@@ -23,7 +23,7 @@ All my computer vision projects
 
 # Motion Debluring of Scintillator based Optical images from an X-ray source
 - **Tools and Libraries:**
-  - Python, Numpy, Open-CV, TensorFlow
+  - Python, Numpy, Open-CV, TensorFlow, Scipy
 - **Architectures:**
   - 
 - **Project Description:**
