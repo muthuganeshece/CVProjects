@@ -1,5 +1,6 @@
 # CVProjects
-All my computer vision projects 
+Hi! Welcome to the Repository. This repository contains all my work related to Computer Vision and Deep Learning
+
 # Contents
 - **Computer Vision based Automation System for Sodium Disposal Plant**
 - **Motion Debluring of Scintillator based Optical images from an X-ray source**
