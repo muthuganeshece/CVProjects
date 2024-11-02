@@ -1,5 +1,5 @@
 # CVProjects
-Hi! Welcome to the Repository. This repository contains all my work related to Computer Vision and Deep Learning
+Hi 👋🏾 Welcome to the Computer Vision Projects Repository! This repository contains all my work related to Computer Vision and Deep Learning
 
 # Contents
 - **Computer Vision based Automation System for Sodium Disposal Plant**
