@@ -34,12 +34,17 @@ Jetson Orin Nano: https://mkp.gem.gov.in/graphics-card/nvidia-jetson-orin-nano-d
 
 /**************** Accessories ***************/
 - Jetson Orin Nano 8GB Developer kit: https://tannatechbiz.com/nvidia-jetson-orin-nano-developer-kit.html?srsltid=AfmBOooq_8OloL13cWX8jpBevXLt4lEZ67qqEhBkaj3PLukbqQ9plCH3
-	- A2 rated 64 GB micro SD card : SanDisk Extreme Pro microSDXC UHS-I (V30, A2)
+https://robu.in/product/nvidia-jetson-orion-nano-developer-kit/
+	- A2 rated 128 GB micro SD card : SanDisk Extreme Pro microSDXC UHS-I (V30, A2)
 	- Pre installed with Jetpack SDK
 - Display port to HDMI Converter: https://blacki.co.in/products/dptohdmi?srsltid=AfmBOopxHRnqeixVvHYoXONZfdkTaoR7rW8eIpBYY8vsowbFVKeXOcJu
 - HDMI cable of length 1 meter: 2 nos.
-- 8 channel Relay board with case
+- 8 channel Relay board : https://robu.in/product/5v-8-channel-ssr-g3mb-202p-solid-state-relay-module-240v-2a-output-resistive-fuse/
 - Metal case with antenna: https://hubtronics.in/jetson-orin-case-a
+- Power Adapter: 19V 2A with DC Barrel Jack
+
+Interface TFT:
+https://jetsonhacks.com/2020/05/04/spi-on-jetson-using-jetson-io/
 
 
 Solid sodium 30kg has been disposed using water mist injection technique in SOCA facility in batches of 4kg each run.
@@ -48,3 +53,4 @@ Identifying the fire and the hydrogen explosions are crucial to effectively cont
 A deep convolutional neural network (dCNN) model is developed and trained that effectively segments the fire region from the raw image. 
 In addition to that, the images are transformed into their corresponding top-view representation using homography techniques for better visualisation.
 Currently, a machine learning model is being built to detect hydrogen explosions during the mist injection, which is a critical step in ensuring the timely activation or deactivation of the water mist system
+
