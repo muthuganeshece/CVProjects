@@ -18,6 +18,13 @@ Layout: Created in same directory
 - Download the model and Apply Inferencing
 - Build video with set of input and segmented images
 
+- Feature Extraction:
+	- Create features, No. of contours, Centroid of each contour and Area of each contour
+- Find Contours:
+	- cv.findcontours used to find the edges of the inferred segmented images
+- Find Centroid:
+	- Centroid Calculation Algorithm
+
 
 /********* GeM Boards ***********/
 
@@ -41,7 +48,7 @@ https://robu.in/product/nvidia-jetson-orion-nano-developer-kit/
 - HDMI cable of length 1 meter: 2 nos.
 - 8 channel Relay board : https://robu.in/product/5v-8-channel-ssr-g3mb-202p-solid-state-relay-module-240v-2a-output-resistive-fuse/
 - Metal case with antenna: https://hubtronics.in/jetson-orin-case-a
-- Power Adapter: 19V 2A with DC Barrel Jack
+- Power Adapter: 19V 2A with DC Barrel Jack                               
 
 Interface TFT:
 https://jetsonhacks.com/2020/05/04/spi-on-jetson-using-jetson-io/
