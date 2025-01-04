@@ -13,6 +13,9 @@ Hi 👋🏾 Welcome to the Computer Vision Projects Repository! This repository 
   - YOLOv8, LSTM
 - **Project Description:**
   - Efficient disposal of sodium
+## Annotation 
+- Convert experiment video in asf format to Open- CV compatible mp4 format 
+- Extract video clips from the full video of experiment using ImageExtraction.ipynb
 ## Sodium Fire Segmentation
 - Semantic Segmentation of fire from the raw image
 - Annotate dataset using Roboflow
