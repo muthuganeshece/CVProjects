@@ -15,8 +15,9 @@ Hi 👋🏾 Welcome to the Computer Vision Projects Repository! This repository 
   - Efficient disposal of sodium
 ## Annotation 
 - Convert experiment video in asf format to Open- CV compatible mp4 format 
-- Extract video clips from the full video of experiment using ImageExtraction.ipynb
-- To generalize the dataset all possible combinations are captured ie. fire during low, very low visibilities, out of focus, sputtering fire
+- Extract video clips from the full video of the experiments using ImageExtraction.ipynb
+- To generalize the dataset all possible combinations are captured ie. fire during low, very low visibilities, out of focus, sputtering fire etc.,
+- Apply annotation for image segmentation task
 - Apply image augmentation
 ## Sodium Fire Segmentation
 - Semantic Segmentation of fire from the raw image
