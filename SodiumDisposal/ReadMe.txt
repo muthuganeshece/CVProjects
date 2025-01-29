@@ -13,6 +13,7 @@ Layout: Created in same directory
 
 
 /********** Steps *****************/
+- Extract images from videos using fps=3 and resize the image to 640x640
 - Annotate images in Roboflow
 - Train the Yolo model in Google Colab
 - Download the model and Apply Inferencing
