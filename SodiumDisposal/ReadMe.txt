@@ -54,7 +54,6 @@ https://robu.in/product/nvidia-jetson-orion-nano-developer-kit/
 Interface TFT:
 https://jetsonhacks.com/2020/05/04/spi-on-jetson-using-jetson-io/
 
-
 Solid sodium 30kg has been disposed using water mist injection technique in SOCA facility in batches of 4kg each run.
 In order to fully automate and speed up the process, a computer vision based water mist injection control system is being developed. 
 Identifying the fire and the hydrogen explosions are crucial to effectively control the mist injection.
