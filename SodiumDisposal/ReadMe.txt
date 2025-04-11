@@ -20,7 +20,7 @@ Layout: Created in same directory
 - Build video with set of input and segmented images
 
 - Feature Extraction:
-	- Create features, No. of contours, Centroid of each contour and Area of each contour
+	- No. of contours, Centroid of each contour and Area of each contour
 - Find Contours:
 	- cv.findcontours used to find the edges of the inferred segmented images
 - Find Centroid:
@@ -35,6 +35,18 @@ Layout: Created in same directory
 - Trained YOLOV8 Model on the dataset (1661 images)
 - Results are stored in GitHub
 
+
+/*************** Structured Data ***********/
+- Video File Name
+- Frame
+- Feature List:
+	- No. of contours
+	- Contour ID
+	- Centroid of each contour: List
+	- Area of each contour: List
+	- Confidence of each contour: List
+	- Visibility level
+	
 
 
 
