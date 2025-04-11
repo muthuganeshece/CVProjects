@@ -26,6 +26,17 @@ Layout: Created in same directory
 - Find Centroid:
 	- Centroid Calculation Algorithm
 
+/********* Status ****************/
+4 Apr 2025:
+- Annotation completed in Roboflow 
+- New Dataset version created for (1661 images)
+
+11 Apr 2025:
+- Trained YOLOV8 Model on the dataset (1661 images)
+- Results are stored in GitHub
+
+
+
 
 /********* GeM Boards ***********/
 
