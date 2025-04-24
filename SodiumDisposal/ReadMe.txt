@@ -1,5 +1,5 @@
 /********** Installations *********/
-- pip install ultralytics==
+- pip install ultralytics==8.0.196 (working)
 - copy file libomp140.x86_64.dll : Free .DLL download. (dllme.com)
 - pip install torch==2.2.2 torchvision==0.17.2 torchaudio
 - pip install onnx==1.16.1
@@ -45,9 +45,31 @@ Layout: Created in same directory
 	- Centroid of each contour: List
 	- Area of each contour: List
 	- Confidence of each contour: List
+	- Strength of each contour: List
+	- Bounding box area: List
+	- Bounding box dimension: List of List
 	- Visibility level
-	
-
+	3401 000 042 301 21
+For the purchase of the following items:
+1. Wire Stripper - 5
+2. Insulation Tape - 30
+3. Scissor - 3
+4. Tester - 5
+5. Measurement Tape (3m) - 4
+6. AAA Battery - 20
+7. AA Battery - 20
+8. 230V 3 core Power cord -  20
+9. Knife Blade set - 2
+10. 5A/15A/20A Plug Top - 20 each
+11. Cable Tie 100mm/150mm/300mm - 2 each
+12. Cutting Plier - 2
+13. Hacksaw blade - 10
+14. Masking Tape - 2
+15. Double sided tape - 2
+16. Nose Plier - 3
+17. Soldering flux - 1
+18. Soldering Iron - 2
+19. Allen Key set - 1
 
 
 /********* GeM Boards ***********/
