@@ -1,5 +1,5 @@
 /********** Installations *********/
-- pip install ultralytics==8.0.196 (working)
+- pip install ultralytics== (8.0.196 for 28_08_2024 model or 8.2.103 for 11_04_2025 model)
 - copy file libomp140.x86_64.dll : Free .DLL download. (dllme.com)
 - pip install torch==2.2.2 torchvision==0.17.2 torchaudio
 - pip install onnx==1.16.1
@@ -40,14 +40,16 @@ Layout: Created in same directory
 - Video File Name
 - Frame
 - Feature List:
+	- Frame ID
 	- No. of contours
 	- Contour ID
-	- Centroid of each contour: List
+	- Centroid of each contour: List of List
 	- Area of each contour: List
 	- Confidence of each contour: List
 	- Strength of each contour: List
 	- Bounding box area: List
 	- Bounding box dimension: List of List
+	- Bounding box centroid: List of List
 	- Visibility level
 	3401 000 042 301 21
 For the purchase of the following items:
