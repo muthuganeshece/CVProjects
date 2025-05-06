@@ -1,5 +1,7 @@
 /********** Installations *********/
 - pip install ultralytics== (8.0.196 for 28_08_2024 model or 8.2.103 for 11_04_2025 model)
+- pip install lap
+
 - copy file libomp140.x86_64.dll : Free .DLL download. (dllme.com)
 - pip install torch==2.2.2 torchvision==0.17.2 torchaudio
 - pip install onnx==1.16.1
@@ -41,6 +43,7 @@ Layout: Created in same directory
 - Frame
 - Feature List:
 	- Frame ID
+	- Time
 	- No. of contours
 	- Contour ID
 	- Centroid of each contour: List of List
