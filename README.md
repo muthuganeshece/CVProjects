@@ -26,6 +26,7 @@ Hi 👋🏾 Welcome to the Computer Vision Projects Repository! This repository 
 
 ## Detection of Hydrogen Buildup
 - Characterization study on sequence of images to detect hydrogen combustion
+- Sequence modeling for hydrogen buildup detection
 
 ## Visibility Estimation
 - Edge detection based Visibility Estimation algorithm is used
