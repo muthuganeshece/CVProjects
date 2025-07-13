@@ -5,6 +5,7 @@ Hi 👋🏾 Welcome to my Computer Vision Projects Repository! This repository c
 - **Computer Vision based Automation System for Sodium Disposal Plant**
 - **Motion Debluring of Scintillator based Optical images from an X-ray source**
 - **Neural network based Blind Denoising of X-ray images**
+- **Colorimetric Analysis for Chemical Compound Estimation**
 
 # Computer Vision based Automation System for Sodium Disposal Plant
 - **Tools and Libraries:**
