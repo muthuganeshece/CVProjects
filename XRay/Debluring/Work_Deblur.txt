@@ -19,3 +19,6 @@ Work:
 - Apply flat field correction to extract the foreground image (Current image/Background image)
 - Apply Gaussian filter
 - Crop the region of interest
+
+
+
