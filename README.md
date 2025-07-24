@@ -53,3 +53,4 @@ Hi 👋🏾 Welcome to my Computer Vision Projects Repository! This repository c
 - Binarized the image by applying thresholding techniques
   
 ## Estimation of Point Spread Function
+- using blind deconvolution method
