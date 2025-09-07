@@ -33,6 +33,9 @@ Hi 👋🏾 Welcome to my Computer Vision Projects Repository! This repository c
 ## Visibility Estimation
 - Edge detection based Visibility Estimation algorithm is used
 
+## Deployment 
+- Edge deployment on NVIDIA Orin Nano board
+
 # Motion Debluring of Scintillator based Optical images from an X-ray source
 - **Tools and Libraries:**
   - Python, Numpy, Open-CV, TensorFlow, Scipy
