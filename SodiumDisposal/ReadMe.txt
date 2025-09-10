@@ -111,10 +111,9 @@ https://robu.in/product/nvidia-jetson-orion-nano-developer-kit/
 Interface TFT:
 https://jetsonhacks.com/2020/05/04/spi-on-jetson-using-jetson-io/
 
-Solid sodium 30kg has been disposed using water mist injection technique in SOCA facility in batches of 4kg each run.
-In order to fully automate and speed up the process, a computer vision based water mist injection control system is being developed. 
-Identifying the fire and the hydrogen explosions are crucial to effectively control the mist injection.
-A deep convolutional neural network (dCNN) model is developed and trained that effectively segments the fire region from the raw image. 
-In addition to that, the images are transformed into their corresponding top-view representation using homography techniques for better visualisation.
-Currently, a machine learning model is being built to detect hydrogen explosions during the mist injection, which is a critical step in ensuring the timely activation or deactivation of the water mist system
+/*************************** Orin Nano Installation ***********************/
+Install Deepstream SDK
+- sudo apt install deepstream-6.4
+- deepstream-app --version-all
 
+Install VS Code
