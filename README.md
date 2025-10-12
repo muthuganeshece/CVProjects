@@ -30,6 +30,7 @@ Hi 👋🏾 Welcome to my Computer Vision Projects Repository! This repository c
 - Feature extraction from each image
 - Sequence modeling for hydrogen burst detection
 
+
 ## Visibility Estimation
 - Edge detection based Visibility Estimation algorithm is used
 
