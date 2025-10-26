@@ -1,4 +1,4 @@
-# CVProjects
+8# CVProjects
 Hi 👋🏾 Welcome to my Computer Vision Projects Repository! This repository contains all my work related to Computer Vision and Deep Learning
 
 # Contents
@@ -33,6 +33,7 @@ Hi 👋🏾 Welcome to my Computer Vision Projects Repository! This repository c
 
 ## Visibility Estimation
 - Edge detection based Visibility Estimation algorithm is used
+- Thresholding to be added
 
 ## Deployment 
 - Edge deployment on NVIDIA Orin Nano board
