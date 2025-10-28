@@ -1,4 +1,4 @@
-8# CVProjects
+# CVProjects
 Hi 👋🏾 Welcome to my Computer Vision Projects Repository! This repository contains all my work related to Computer Vision and Deep Learning
 
 # Contents
