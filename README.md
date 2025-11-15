@@ -9,7 +9,7 @@ Hi 👋🏾 Welcome to my Computer Vision Projects Repository! This repository c
 
 # Real time Computer Vision based Automation System for Sodium Disposal Plant
 - **Tools and Libraries:**
-  - Python, Numpy, Open-CV, Ultralytics, YOLOv8, Roboflow, PyTorch
+  - Python, Numpy, Open-CV, Ultralytics, YOLOv8, Roboflow, PyTorch, TensorRT
 - **Architectures:**
   - YOLOv8, LSTM
 - **Project Description:**
