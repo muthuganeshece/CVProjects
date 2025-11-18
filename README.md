@@ -12,6 +12,7 @@ Hi 👋🏾 Welcome to my Computer Vision Projects Repository! This repository c
   - Python, Numpy, Open-CV, Ultralytics, YOLOv8, Roboflow, PyTorch, TensorRT
 - **Architectures:**
   - YOLOv8, LSTM
+  - CNN + LSTM
 - **Project Description:**
   - Efficient disposal of sodium
 ## Annotation 
