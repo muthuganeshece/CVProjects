@@ -115,5 +115,3 @@ https://jetsonhacks.com/2020/05/04/spi-on-jetson-using-jetson-io/
 Install Deepstream SDK
 - sudo apt install deepstream-6.4
 - deepstream-app --version-all
-
-Install VS Code
