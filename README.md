@@ -21,6 +21,7 @@ Hi 👋🏾 Welcome to my Computer Vision Projects Repository! This repository c
 - To generalize the dataset all possible combinations are captured ie. fire during low, very low visibilities, out of focus, sputtering fire etc.,
 - Apply annotation for image segmentation task
 - Apply image augmentation
+- Extract event from original experimental videos
 ## Sodium Fire Segmentation
 - Semantic Segmentation of fire from the raw image
 - Annotate dataset using Roboflow
