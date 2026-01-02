@@ -39,7 +39,7 @@ Hi 👋🏾 Welcome to my Computer Vision Projects Repository! This repository c
 
 ## Deployment 
 - Edge deployment on NVIDIA Orin Nano board
-- TensorRT conversion 
+- TensorRT conversion and Optimization 
 - GPU acceleration 
 
 # Motion Debluring of Scintillator based Optical images from an X-ray source
